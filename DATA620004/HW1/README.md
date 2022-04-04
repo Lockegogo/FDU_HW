@@ -21,7 +21,7 @@ Code for Assignment 1  of course `DATA620004` (Neural Networks and Machine Learn
 
 ## Running training and evaluation
 
-- Clone the repo: `git clone https://github.com/Lockegogo/DATA620004/HW1.git`
+- Clone the repo: `git clone https://github.com/Lockegogo/FDU_HW/tree/main/DATA620004/HW1.git`
 - [Download MNIST Dataset](https://pan.baidu.com/s/1YhCCpJtHg1COBNOl04Ky_Q?pwd=yvu5) (code: yvu5), unzip it  in  folder `./Datasets/MNIST`
 - [Download the trained model](https://pan.baidu.com/s/1-lD76XyVP_6AMNSODHf7bA?pwd=k42h) (code: k42h), unzip it in folder `./Results`
 - Select the best parameter: `python parameter.py`
