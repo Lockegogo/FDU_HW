@@ -32,7 +32,7 @@ For example:
 000008 0.532489 175 184 232 201
 ```
 
-**Training set**: The trainval set in VOC2007 and the trainval set in VOC2012 were used as the training set, a total of 16551 images.
+**Training set**: The trainval set in VOC2007 and the trainval set in VOC2012 are used as the training set, a total of 16551 images.
 
 **Test set**: The test set in VOC2007 is used as the test set, a total of 4952 images.
 
