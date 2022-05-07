@@ -6,8 +6,7 @@ Code for MidTerm PJ  of course `DATA620004` (Neural Networks and Machine Learnin
 
 * Python 3.8
 * Numpy 1.19.2
-
-- Pytorch >= 1.7
+* Pytorch >= 1.7
 
 ## Dataset
 
