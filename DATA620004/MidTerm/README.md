@@ -46,6 +46,7 @@ For example:
   - or train it by yourself: `python train.py --img 640 --batch 16 --epochs 300 --data voc.yaml --weights yolov3.pt --cache `
 
 - **Test with val.py**: `python val.py --weights best.pt --data voc.yaml --img 640 --iou 0.65 --half`
+- For more information, please refer to `main.ipynb`
 
 ## Results
 
@@ -55,7 +56,9 @@ For example:
 
 - **Inference with detect.py**: `python detect.py --weights best.pt --img 640 --conf 0.25 --source data/images`
 
-![sample1](pics/sample1.jpg)
+<img src="pics/sample1.jpg" alt="sample1" style="zoom: 50%;" />
+
+
 
 ## References
 
