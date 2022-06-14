@@ -1,6 +1,6 @@
 # Final Project
 
-Code for FInal PJ  of course `DATA620004` (Neural Networks and Machine Learning) at Fudan University in 2022 spring. 
+Code for Final PJ  of course `DATA620004` (Neural Networks and Machine Learning) at Fudan University in 2022 spring. 
 
 ## Require
 
