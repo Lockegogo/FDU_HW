@@ -54,6 +54,7 @@ For example:
 ## References
 
 1. https://github.com/chenyuntc/simple-faster-rcnn-pytorch
+1. https://github.com/qishi21/MidTerm/tree/main/task2_1
 
 
 
